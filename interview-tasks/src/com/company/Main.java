@@ -4,10 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int[] array = new int[]{12,6,10,26,3,24};
+        int[] array = new int[]{13,12,-27,-302,25,37,133,155,-14};
 
-        System.out.println(MinSum.minSum(array));
-
+        System.out.println(MaxSum.maxProduct(array, 5));
     }
 
 
