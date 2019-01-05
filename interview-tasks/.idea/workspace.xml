@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32b9c31-ce9a-41ed-bb0a-9cac531e37f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CountPassengers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/RowWeights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BalancedNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MyLanguages.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/interview-tasks/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview-tasks/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
@@ -54,40 +55,40 @@
     <session id="1289770850">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6296" />
-          <entry key="txt" value="216" />
+          <entry key="java" value="7154" />
+          <entry key="txt" value="228" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6296" />
-          <entry key="PLAIN_TEXT" value="216" />
+          <entry key="JAVA" value="7295" />
+          <entry key="PLAIN_TEXT" value="228" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="44" />
+          <entry key="java" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="44" />
+          <entry key="JAVA" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -98,20 +99,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="90">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CountPassengers.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -157,6 +158,9 @@
         <option value="$PROJECT_DIR$/src/com/company/ComparingDoubles.java" />
         <option value="$PROJECT_DIR$/src/com/company/RowWeights.java" />
         <option value="$PROJECT_DIR$/src/com/company/CountPassengers.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BalancedNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MyLanguages.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
@@ -168,9 +172,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
+    <option name="x" value="136" />
     <option name="y" value="23" />
-    <option name="width" value="1268" />
+    <option name="width" value="1223" />
     <option name="height" value="663" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -181,7 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,14 +214,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544346122553" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544346191595" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -282,7 +285,10 @@
       <workItem from="1543429443483" duration="2296000" />
       <workItem from="1544255096236" duration="28000" />
       <workItem from="1544264950229" duration="1376000" />
-      <workItem from="1544342131365" duration="2280000" />
+      <workItem from="1544342131365" duration="2382000" />
+      <workItem from="1544533603224" duration="190000" />
+      <workItem from="1544956847657" duration="5529000" />
+      <workItem from="1546675355638" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="Jeremy">
       <created>1541235353910</created>
@@ -375,17 +381,24 @@
       <option name="project" value="LOCAL" />
       <updated>1543432931504</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adding Cata7">
+      <created>1544346177131</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1544346177131</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56022000" />
+    <option name="totallyTimeSpent" value="62094000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="23" width="1268" height="663" extended-state="0" />
+    <frame x="136" y="23" width="1223" height="663" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2781403" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32514817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,14 +407,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3142361" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30823117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31954888" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3183391" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -431,7 +444,8 @@
     <MESSAGE value="MaxSum added" />
     <MESSAGE value="KATA added" />
     <MESSAGE value="Adding exercise from TIm Butchalka course. Starting with easy ones." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding exercise from TIm Butchalka course. Starting with easy ones." />
+    <MESSAGE value="Adding Cata7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Cata7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
@@ -546,9 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -601,17 +612,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CountPassengers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="281">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CountPassengers.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/BalancedNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="363">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MyLanguages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
         </state>
       </provider>
     </entry>
