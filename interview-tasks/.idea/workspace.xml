@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32b9c31-ce9a-41ed-bb0a-9cac531e37f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/KeepHydrated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Digitize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview-tasks/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview-tasks/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,18 +52,18 @@
     <session id="1289770850">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -75,8 +74,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8159" />
-          <entry key="PLAIN_TEXT" value="241" />
+          <entry key="JAVA" value="9002" />
+          <entry key="PLAIN_TEXT" value="250" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,7 +85,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="52" />
+          <entry key="JAVA" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -100,8 +99,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Digitize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -152,6 +160,8 @@
         <option value="$PROJECT_DIR$/src/com/company/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/com/company/JumpingNumber.java" />
         <option value="$PROJECT_DIR$/src/com/company/KeepHydrated.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Dissarium.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Digitize.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
@@ -163,10 +173,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
+    <option name="x" value="86" />
     <option name="y" value="23" />
     <option name="width" value="1275" />
-    <option name="height" value="601" />
+    <option name="height" value="620" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -212,7 +222,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546788054232" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546788100043" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -280,7 +290,8 @@
       <workItem from="1544533603224" duration="190000" />
       <workItem from="1544956847657" duration="5529000" />
       <workItem from="1546675355638" duration="517000" />
-      <workItem from="1546783509713" duration="3745000" />
+      <workItem from="1546783509713" duration="3938000" />
+      <workItem from="1546886845067" duration="2414000" />
     </task>
     <task id="LOCAL-00001" summary="Jeremy">
       <created>1541235353910</created>
@@ -387,17 +398,24 @@
       <option name="project" value="LOCAL" />
       <updated>1546675845763</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Dissarium">
+      <created>1546788070473</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1546788070473</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66105000" />
+    <option name="totallyTimeSpent" value="68712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="23" width="1275" height="601" extended-state="0" />
+    <frame x="86" y="23" width="1275" height="620" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2733171" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27737227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,14 +424,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3064833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30492425" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31698775" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31630647" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -445,7 +463,8 @@
     <MESSAGE value="Adding exercise from TIm Butchalka course. Starting with easy ones." />
     <MESSAGE value="Adding Cata7" />
     <MESSAGE value="MB fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="MB fibonacci" />
+    <MESSAGE value="Dissarium" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dissarium" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
@@ -626,13 +645,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/JumpingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/JumpingNumber.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -658,10 +671,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Dissarium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Digitize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
